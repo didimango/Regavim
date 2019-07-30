@@ -1,0 +1,55 @@
+/* COLOUR REFRENCES
+
+PURPLE 7C579D   124.87.157
+GREEN  9FCC3B   159.204.59
+turquoise  83CAA8  131.202.168
+PINK  CQ59D  192.93.157
+ORANGE  F8AC18   248.172.24
+*/
+
+/*====GENERAL====*/
+body{
+    margin-top: 50px;
+    font-family: 'rubik', 'helvetica';
+    font-size: 16px;
+    background-color: #ebebeb;
+}
+
+/*===global===*/
+h1,h2,h3,h4,h5,h6 {
+    text-rendering: optimizeLegibility;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h1,h2{
+    margin: 0 0 40px;
+}
+
+h3 {
+    margin: 20px 0;
+}
+
+h4 {
+    font-size: 18px
+}
+.navbar-brand{
+    position:relative;
+}
+.navbar-brand img{
+    width:80px;
+}
+/*===hero===*/
+
+#hero {
+    background: url('../img/heart.jif') 50% repeat fixed;
+    min-height: 500px;
+    padding: 40px 0;
+    color: black;
+    font: halvetica;
+    text-rendering: optimizeLegibility;
+    
+}
